@@ -1,3 +1,5 @@
-"employees": [
-  { "id": 1, "name": "Shanu", "email": "ksgeorgian@gmail.com", "mobile": "8360574844" }
-  ]
+{
+  "employees": [
+    { "id": 1, "name": "Shanu", "email": "ksgeorgian@gmail.com", "mobile": "8360574844" }
+    ]
+}
